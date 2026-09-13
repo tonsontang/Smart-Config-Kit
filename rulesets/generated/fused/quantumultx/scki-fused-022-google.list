@@ -11,10 +11,10 @@ host-suffix, hangout
 host-suffix, nexus
 host-suffix, xn--flw351e
 host-suffix, xn--qcka1pmc
-host-suffix, android
 host-suffix, youtube
+host-suffix, android
 host-suffix, revolv.com
-host-suffix, youtube.hk
+host-suffix, youtube.ch
 host-suffix, google.as
 host-suffix, google.at
 host-suffix, google.az
@@ -42,83 +42,79 @@ host-suffix, google.cv
 host-suffix, google.cz
 host-suffix, google.de
 host-suffix, google.dj
-host-suffix, opensourceinsights.dev
-host-suffix, opensourceinsight.dev
-host-suffix, deps.info
-host-suffix, deps.dev
-host-suffix, kaggleusercontent.com
-host-suffix, kaggle.net
-host-suffix, kaggle.io
-host-suffix, kaggle.com
-host-suffix, xn--ngstr-lra8j.com
-host-suffix, googleplay.com
-host-suffix, golang.org
-host-suffix, golang.net
-host-suffix, golang.com
-host-suffix, godoc.org
-host-suffix, go.dev
-host-suffix, go-lang.org
-host-suffix, go-lang.net
-host-suffix, go-lang.com
-host-suffix, blogspot.mk
-host-suffix, blogspot.md
-host-suffix, blogspot.fi
-host-suffix, blogspot.lt
-host-suffix, blogspot.li
-host-suffix, blogspot.kr
-host-suffix, blogspot.jp
-host-suffix, blogspot.dk
-host-suffix, blogspot.is
-host-suffix, blogspot.in
-host-suffix, blogspot.ie
-host-suffix, blogspot.hu
-host-suffix, blogspot.hr
-host-suffix, blogspot.hk
-host-suffix, blogspot.gr
-host-suffix, blogspot.fr
-host-suffix, blogspot.lu
+host-suffix, youtube.dk
+host-suffix, youtube.de
+host-suffix, youtube.cz
+host-suffix, youtube.cr
+host-suffix, youtube.es
+host-suffix, youtube.fi
+host-suffix, youtube.fr
+host-suffix, youtube.ge
+host-suffix, youtube.gr
+host-suffix, youtube.gt
+host-suffix, youtube.hk
+host-suffix, youtube.hr
+host-suffix, youtube.hu
+host-suffix, youtube.ie
+host-suffix, youtube.in
+host-suffix, youtube.ro
+host-suffix, youtube.is
+host-suffix, youtube.it
+host-suffix, youtube.jo
+host-suffix, youtube.jp
+host-suffix, youtube.kr
+host-suffix, youtube.kz
+host-suffix, youtube.la
+host-suffix, youtube.lk
+host-suffix, youtube.lt
+host-suffix, youtube.lu
+host-suffix, youtube.lv
+host-suffix, youtube.ly
+host-suffix, youtube.ma
+host-suffix, youtube.md
+host-suffix, youtube.me
+host-suffix, youtube.mk
+host-suffix, youtube.mn
+host-suffix, youtube.mx
+host-suffix, youtube.my
 host-suffix, sheets.new
-host-suffix, blogspot.it
-host-suffix, blogspot.cl
-host-suffix, blogspot.cz
-host-suffix, blogspot.cv
-host-suffix, blogblog.com
-host-suffix, blogspot.my
+host-suffix, youtube.ng
+host-suffix, youtube.ni
+host-suffix, youtube.nl
+host-suffix, youtube.no
+host-suffix, youtube.pa
+host-suffix, youtube.pe
 host-suffix, screenwisetrends.com
-host-suffix, blogger.com
-host-suffix, blogspot.no
-host-suffix, blogspot.pe
-host-suffix, blogspot.pt
-host-suffix, blogspot.qa
-host-suffix, blogspot.re
-host-suffix, blogspot.ro
-host-suffix, blogspot.rs
-host-suffix, blogspot.ru
+host-suffix, youtube.ph
+host-suffix, youtube.pk
+host-suffix, youtube.pl
+host-suffix, youtube.pr
+host-suffix, youtube.pt
+host-suffix, youtube.rs
+host-suffix, youtube.qa
+host-suffix, youtube.ee
 host-suffix, screenwisetrendspanel.com
-host-suffix, blogspot.se
-host-suffix, blogspot.sg
-host-suffix, blogspot.com
-host-suffix, blogspot.si
-host-suffix, blogspot.sk
-host-suffix, blogspot.sn
-host-suffix, blogspot.td
-host-suffix, blogspot.tw
-host-suffix, blogspot.ug
-host-suffix, blogspot.vn
-host-suffix, blogspot.de
-host-suffix, blogspot.ch
-host-suffix, blogspot.cf
-host-suffix, blogspot.ca
-host-suffix, blogspot.bj
-host-suffix, blogspot.bg
-host-suffix, blogspot.be
-host-suffix, blogspot.ba
-host-suffix, blogspot.am
-host-suffix, blogspot.al
-host-suffix, blogspot.ae
-host-suffix, blogspot.mx
-host-suffix, blogspot.nl
-host-suffix, androidify.com
+host-suffix, youtube.sa
+host-suffix, youtube.se
+host-suffix, youtube.sg
+host-suffix, youtube.si
+host-suffix, youtube.sk
+host-suffix, youtube.sn
+host-suffix, youtube.soy
+host-suffix, youtube.sv
+host-suffix, youtube.tn
+host-suffix, youtube.tv
+host-suffix, youtube.ua
+host-suffix, youtube.ug
+host-suffix, youtube.uy
+host-suffix, youtube.vn
+host-suffix, youtubeeducation.com
+host-suffix, youtubefanfest.com
+host-suffix, youtubegaming.com
+host-suffix, youtubego.com
+host-suffix, youtubego.id
+host-suffix, youtubego.in
+host-suffix, youtubemobilesupport.com
 host-suffix, google.dk
 host-suffix, google.dm
 host-suffix, google.dz
@@ -304,11 +300,11 @@ host-suffix, googlebot.com
 host-suffix, googlecapital.com
 host-suffix, googlecert.net
 host-suffix, googlecode.com
-host-suffix, android.com
-host-suffix, google.ad
-host-suffix, pub.dev
-host-suffix, flutterapp.com
-host-suffix, flutter.dev
+host-suffix, youtube.co
+host-suffix, youtube.cl
+host-suffix, charlestonroadregistry.com
+host-suffix, youtube.cat
+host-suffix, youtube.ca
 host-suffix, googledanmark.com
 host-suffix, googledomains.com
 host-suffix, googledrive.com
@@ -344,7 +340,7 @@ host-suffix, gvt9.com
 host-suffix, haplorrhini.com
 host-suffix, hdrplusdata.org
 host-suffix, hindiweb.com
-host-suffix, firebaseio.com
+host-suffix, youtube.by
 host-suffix, html5rocks.com
 host-suffix, hwgo.com
 host-suffix, iamremarkable.org
@@ -407,9 +403,9 @@ host-suffix, run.app
 host-suffix, savethedate.foo
 host-suffix, saynow.com
 host-suffix, schemer.com
-host-suffix, firebaseapp.com
-host-suffix, firebase.io
-host-suffix, firebase.com
+host-suffix, youtube.bo
+host-suffix, google.am
+host-suffix, youtube.bh
 host-suffix, slides.new
 host-suffix, snapseed.com
 host-suffix, solveforx.com
@@ -428,6 +424,7 @@ host-suffix, tensorflow.org
 host-suffix, tfhub.dev
 host-suffix, thecleversense.com
 host-suffix, thegooglestore.com
+host-suffix, youtube.bg
 host-suffix, thinkquarterly.com
 host-suffix, thinkwithgoogle.com
 host-suffix, tiltbrush.com
@@ -456,7 +453,7 @@ host-suffix, whats.new
 host-suffix, widevine.com
 host-suffix, withgoogle.com
 host-suffix, womenwill.com
-host-suffix, dartpad.dev
+host-suffix, youtube.be
 host-suffix, womenwill.id
 host-suffix, womenwill.in
 host-suffix, womenwill.mx
@@ -470,120 +467,226 @@ host-suffix, xn--gogl-0nd52e.com
 host-suffix, xn--gogl-1nd42e.com
 host-suffix, xplr.co
 host-suffix, zukunftswerkstatt.de
-host-suffix, polymer-project.org
-host-suffix, polymerproject.org
+host-suffix, google.ae
+host-suffix, android.com
+host-suffix, androidify.com
+host-suffix, dart.dev
+host-suffix, dartlang.org
+host-suffix, dartpad.dev
 host-suffix, fastlane.ci
 host-suffix, fastlane.tools
-host-suffix, ai.studio
-host-suffix, dartlang.org
-host-suffix, dart.dev
-host-suffix, youtube.dk
-host-suffix, youtube.de
-host-suffix, youtube.cz
-host-suffix, youtube.cr
-host-suffix, youtube.es
-host-suffix, youtube.fi
-host-suffix, youtube.fr
-host-suffix, youtube.ge
-host-suffix, youtube.gr
-host-suffix, youtube.gt
-host-suffix, google.am
-host-suffix, youtube.hr
-host-suffix, youtube.hu
-host-suffix, youtube.ie
-host-suffix, youtube.in
-host-suffix, youtube.ro
-host-suffix, charlestonroadregistry.com
-host-suffix, crr.com
-host-suffix, get.app
-host-suffix, get.dev
-host-suffix, get.how
-host-suffix, get.new
-host-suffix, get.page
-host-suffix, get.rsvp
-host-suffix, hey.boo
-host-suffix, iam.soy
-host-suffix, new.day
+host-suffix, blogspot.nl
+host-suffix, blogspot.mx
+host-suffix, blogspot.ae
+host-suffix, blogspot.al
+host-suffix, blogspot.am
+host-suffix, blogspot.ba
+host-suffix, blogspot.be
+host-suffix, blogspot.bg
+host-suffix, blogspot.bj
+host-suffix, blogspot.ca
+host-suffix, blogspot.cf
+host-suffix, blogspot.ch
+host-suffix, blogspot.de
+host-suffix, blogspot.vn
+host-suffix, blogspot.ug
+host-suffix, blogspot.tw
+host-suffix, blogspot.td
+host-suffix, blogspot.sn
+host-suffix, blogspot.sk
+host-suffix, blogspot.si
+host-suffix, blogspot.com
+host-suffix, blogspot.sg
+host-suffix, blogspot.se
+host-suffix, blogspot.ru
+host-suffix, blogspot.rs
+host-suffix, blogspot.ro
+host-suffix, blogspot.re
+host-suffix, blogspot.qa
+host-suffix, blogspot.pt
+host-suffix, blogspot.pe
+host-suffix, blogspot.no
+host-suffix, blogger.com
+host-suffix, blogspot.my
+host-suffix, blogblog.com
+host-suffix, blogspot.cv
+host-suffix, blogspot.cz
+host-suffix, blogspot.cl
+host-suffix, blogspot.it
+host-suffix, blogspot.lu
+host-suffix, blogspot.fr
+host-suffix, blogspot.gr
+host-suffix, blogspot.hk
+host-suffix, blogspot.hr
+host-suffix, blogspot.hu
+host-suffix, blogspot.ie
+host-suffix, blogspot.in
+host-suffix, blogspot.is
+host-suffix, blogspot.dk
+host-suffix, blogspot.jp
+host-suffix, blogspot.kr
+host-suffix, blogspot.li
+host-suffix, blogspot.lt
+host-suffix, blogspot.fi
+host-suffix, blogspot.md
+host-suffix, blogspot.mk
+host-suffix, youtube.ba
+host-suffix, youtube.az
+host-suffix, youtube.at
+host-suffix, youtube.am
+host-suffix, youtube.al
+host-suffix, youtube.ae
+host-suffix, yt.be
+host-suffix, withyoutube.com
+host-suffix, youtube.iq
+host-suffix, youtube.ru
+host-suffix, google.ad
 host-suffix, xn--p8j9a0d9c9a.xn--q9jyb4c
+host-suffix, new.day
+host-suffix, iam.soy
+host-suffix, hey.boo
+host-suffix, get.rsvp
+host-suffix, get.page
+host-suffix, get.new
+host-suffix, flutter.dev
+host-suffix, flutterapp.com
+host-suffix, pub.dev
+host-suffix, go-lang.com
+host-suffix, go-lang.net
+host-suffix, go-lang.org
+host-suffix, go.dev
+host-suffix, godoc.org
+host-suffix, golang.com
+host-suffix, golang.net
+host-suffix, golang.org
+host-suffix, kaggle.com
+host-suffix, kaggle.io
+host-suffix, kaggle.net
+host-suffix, kaggleusercontent.com
+host-suffix, polymer-project.org
+host-suffix, polymerproject.org
 host-suffix, v8.dev
 host-suffix, v8project.org
-host-suffix, google.ae
-host-suffix, youtube.ru
-host-suffix, youtube.iq
-host-suffix, withyoutube.com
-host-suffix, yt.be
-host-suffix, youtube.ae
-host-suffix, youtube.al
-host-suffix, youtube.am
-host-suffix, youtube.at
-host-suffix, youtube.az
-host-suffix, youtube.ba
-host-suffix, youtube.be
-host-suffix, youtube.bg
-host-suffix, youtube.bh
-host-suffix, youtube.bo
-host-suffix, youtube.by
-host-suffix, youtube.ca
-host-suffix, youtube.cat
-host-suffix, youtube.ch
-host-suffix, youtube.cl
-host-suffix, youtube.co
-host-suffix, youtubemobilesupport.com
-host-suffix, youtubego.in
-host-suffix, youtubego.id
-host-suffix, youtubego.com
-host-suffix, youtubegaming.com
-host-suffix, youtubefanfest.com
-host-suffix, youtubeeducation.com
-host-suffix, youtube.vn
-host-suffix, youtube.uy
-host-suffix, youtube.ug
-host-suffix, youtube.ua
-host-suffix, youtube.tv
-host-suffix, youtube.tn
-host-suffix, youtube.sv
-host-suffix, youtube.soy
-host-suffix, youtube.sn
-host-suffix, youtube.sk
-host-suffix, youtube.si
-host-suffix, youtube.sg
-host-suffix, youtube.se
-host-suffix, youtube.sa
-host-suffix, youtube.ee
-host-suffix, youtube.qa
-host-suffix, youtube.rs
-host-suffix, youtube.pt
-host-suffix, youtube.pr
-host-suffix, youtube.pl
-host-suffix, youtube.pk
-host-suffix, youtube.ph
-host-suffix, youtube.pe
-host-suffix, youtube.pa
-host-suffix, youtube.no
-host-suffix, youtube.nl
-host-suffix, youtube.ni
-host-suffix, youtube.ng
-host-suffix, youtube.my
-host-suffix, youtube.mx
-host-suffix, youtube.mn
-host-suffix, youtube.mk
-host-suffix, youtube.me
-host-suffix, youtube.md
-host-suffix, youtube.ma
-host-suffix, youtube.ly
-host-suffix, youtube.lv
-host-suffix, youtube.lu
-host-suffix, youtube.lt
-host-suffix, youtube.lk
-host-suffix, youtube.la
-host-suffix, youtube.kz
-host-suffix, youtube.kr
-host-suffix, youtube.jp
-host-suffix, youtube.jo
-host-suffix, youtube.it
-host-suffix, youtube.is
-host-suffix, google.com.ua
+host-suffix, firebase.com
+host-suffix, firebase.io
+host-suffix, firebaseapp.com
+host-suffix, firebaseio.com
+host-suffix, googleplay.com
+host-suffix, xn--ngstr-lra8j.com
+host-suffix, get.how
+host-suffix, get.dev
+host-suffix, get.app
+host-suffix, crr.com
+host-suffix, deps.dev
+host-suffix, deps.info
+host-suffix, opensourceinsight.dev
+host-suffix, opensourceinsights.dev
+host-suffix, ai.studio
+host-suffix, google.com.mm
+host-suffix, blogspot.co.at
+host-suffix, blogspot.co.id
+host-suffix, blogspot.co.il
+host-suffix, blogspot.co.ke
+host-suffix, blogspot.co.nz
+host-suffix, blogspot.co.uk
+host-suffix, blogspot.co.za
+host-suffix, blogspot.com.by
+host-suffix, blogspot.com.ar
 host-suffix, blogspot.com.tr
+host-suffix, blogspot.com.uy
+host-suffix, blogspot.com.au
+host-suffix, blogspot.com.cy
+host-suffix, blogspot.com.ee
+host-suffix, blogspot.com.eg
+host-suffix, blogspot.com.es
+host-suffix, blogspot.com.mt
+host-suffix, blogspot.com.ng
+host-suffix, blogspot.com.co
+host-suffix, blogspot.com.br
+host-suffix, womenwill.com.br
+host-suffix, thinkquarterly.co.uk
+host-suffix, google.com.co
+host-suffix, google.com.fj
+host-suffix, howtogetmo.co.uk
+host-suffix, googlecompare.co.uk
+host-suffix, google.com.vn
+host-suffix, google.com.vc
+host-suffix, google.com.uy
+host-suffix, google.com.ua
+host-suffix, google.com.tw
+host-suffix, google.com.tr
+host-suffix, google.com.tj
+host-suffix, google.com.sv
+host-suffix, google.com.sl
+host-suffix, google.com.sg
+host-suffix, google.com.sb
+host-suffix, google.com.sa
+host-suffix, google.com.qa
+host-suffix, google.com.py
+host-suffix, google.com.pr
+host-suffix, google.com.pk
+host-suffix, google.com.ph
+host-suffix, google.com.pg
+host-suffix, google.com.pe
+host-suffix, google.com.pa
+host-suffix, google.com.om
+host-suffix, google.com.np
+host-suffix, google.com.ni
+host-suffix, google.com.ng
+host-suffix, google.com.na
+host-suffix, google.com.my
+host-suffix, google.com.mx
+host-suffix, google.com.mt
+host-suffix, google.com.ly
+host-suffix, google.com.lb
+host-suffix, google.com.kw
+host-suffix, google.com.kh
+host-suffix, google.com.jm
+host-suffix, google.com.hk
+host-suffix, google.com.gt
+host-suffix, google.com.gi
+host-suffix, google.com.gh
+host-suffix, google.com.et
+host-suffix, google.com.eg
+host-suffix, google.com.ec
+host-suffix, google.com.do
+host-suffix, google.com.cy
+host-suffix, google.com.cu
+host-suffix, google.com.bz
+host-suffix, google.com.br
+host-suffix, google.com.bo
+host-suffix, google.com.bn
+host-suffix, google.com.bh
+host-suffix, google.com.bd
+host-suffix, google.com.au
+host-suffix, google.com.ar
+host-suffix, google.com.ai
+host-suffix, google.com.ag
+host-suffix, google.com.af
+host-suffix, google.co.zw
+host-suffix, google.co.zm
+host-suffix, google.co.za
+host-suffix, google.co.vi
+host-suffix, google.co.ve
+host-suffix, google.co.uz
+host-suffix, google.co.uk
+host-suffix, google.co.ug
+host-suffix, google.co.tz
+host-suffix, google.co.th
+host-suffix, google.co.nz
+host-suffix, google.co.mz
+host-suffix, google.co.ma
+host-suffix, google.co.ls
+host-suffix, google.co.kr
+host-suffix, google.co.ke
+host-suffix, google.co.jp
+host-suffix, google.co.in
+host-suffix, google.co.il
+host-suffix, google.co.id
+host-suffix, google.co.cr
+host-suffix, google.co.ck
+host-suffix, google.co.bw
+host-suffix, google.co.ao
 host-suffix, youtube.co.zw
 host-suffix, youtube.com.ve
 host-suffix, youtube.com.uy
@@ -646,7 +749,6 @@ host-suffix, youtube.co.ma
 host-suffix, youtube.co.kr
 host-suffix, youtube.co.ke
 host-suffix, youtube.co.jp
-host-suffix, googlecompare.co.uk
 host-suffix, youtube.co.in
 host-suffix, youtube.co.il
 host-suffix, youtubego.co.id
@@ -657,108 +759,6 @@ host-suffix, youtube.co.hu
 host-suffix, youtube.co.cr
 host-suffix, youtube.co.at
 host-suffix, youtube.co.ae
-host-suffix, google.co.ao
-host-suffix, google.co.bw
-host-suffix, womenwill.com.br
-host-suffix, thinkquarterly.co.uk
-host-suffix, google.com.co
-host-suffix, google.com.mm
-host-suffix, google.com.fj
-host-suffix, howtogetmo.co.uk
-host-suffix, google.com.ec
-host-suffix, google.com.vn
-host-suffix, google.com.tw
-host-suffix, google.com.tr
-host-suffix, google.com.tj
-host-suffix, google.com.sv
-host-suffix, google.com.sl
-host-suffix, google.com.sg
-host-suffix, google.com.sb
-host-suffix, google.com.sa
-host-suffix, google.com.qa
-host-suffix, google.com.py
-host-suffix, google.com.pr
-host-suffix, google.com.pk
-host-suffix, google.com.ph
-host-suffix, google.com.pg
-host-suffix, google.com.pe
-host-suffix, google.com.pa
-host-suffix, google.com.om
-host-suffix, google.com.np
-host-suffix, google.com.ni
-host-suffix, google.com.ng
-host-suffix, google.com.na
-host-suffix, google.com.my
-host-suffix, google.com.mx
-host-suffix, google.com.mt
-host-suffix, google.com.ly
-host-suffix, google.com.lb
-host-suffix, google.com.kw
-host-suffix, google.com.kh
-host-suffix, google.com.jm
-host-suffix, google.com.hk
-host-suffix, google.com.gt
-host-suffix, google.com.gi
-host-suffix, google.com.gh
-host-suffix, google.com.et
-host-suffix, google.com.eg
-host-suffix, google.com.uy
-host-suffix, google.com.do
-host-suffix, google.com.cy
-host-suffix, google.com.cu
-host-suffix, google.com.bz
-host-suffix, google.com.br
-host-suffix, google.com.bo
-host-suffix, google.com.bn
-host-suffix, google.com.bh
-host-suffix, google.com.bd
-host-suffix, google.com.au
-host-suffix, google.com.ar
-host-suffix, google.com.ai
-host-suffix, google.com.ag
-host-suffix, google.com.af
-host-suffix, google.co.zw
-host-suffix, google.co.zm
-host-suffix, google.co.za
-host-suffix, google.co.vi
-host-suffix, google.co.ve
-host-suffix, google.co.uz
-host-suffix, blogspot.com.br
-host-suffix, blogspot.com.co
-host-suffix, blogspot.com.ng
-host-suffix, blogspot.com.mt
-host-suffix, blogspot.com.es
-host-suffix, blogspot.com.eg
-host-suffix, blogspot.com.ee
-host-suffix, blogspot.com.cy
-host-suffix, blogspot.com.au
-host-suffix, blogspot.com.uy
-host-suffix, google.co.uk
-host-suffix, blogspot.com.ar
-host-suffix, blogspot.com.by
-host-suffix, blogspot.co.za
-host-suffix, blogspot.co.uk
-host-suffix, blogspot.co.nz
-host-suffix, blogspot.co.ke
-host-suffix, blogspot.co.il
-host-suffix, blogspot.co.id
-host-suffix, blogspot.co.at
-host-suffix, google.com.vc
-host-suffix, google.co.ug
-host-suffix, google.co.tz
-host-suffix, google.co.th
-host-suffix, google.co.nz
-host-suffix, google.co.mz
-host-suffix, google.co.ma
-host-suffix, google.co.ls
-host-suffix, google.co.kr
-host-suffix, google.co.ke
-host-suffix, google.co.jp
-host-suffix, google.co.in
-host-suffix, google.co.il
-host-suffix, google.co.id
-host-suffix, google.co.cr
-host-suffix, google.co.ck
 host-suffix, google.cn
 host-suffix, g.cn
 host-suffix, gkecnapps.cn
@@ -1461,18 +1461,7 @@ ip-cidr, 136.38.74.208/28, no-resolve
 ip-cidr, 136.38.74.224/27, no-resolve
 ip-cidr, 136.38.75.0/24, no-resolve
 ip-cidr, 136.38.76.0/22, no-resolve
-ip-cidr, 136.38.80.0/21, no-resolve
-ip-cidr, 136.38.88.0/22, no-resolve
-ip-cidr, 136.38.92.0/23, no-resolve
-ip-cidr, 136.38.94.0/25, no-resolve
-ip-cidr, 136.38.94.128/26, no-resolve
-ip-cidr, 136.38.94.192/27, no-resolve
-ip-cidr, 136.38.94.224/29, no-resolve
-ip-cidr, 136.38.94.232/30, no-resolve
-ip-cidr, 136.38.94.236/31, no-resolve
-ip-cidr, 136.38.94.238/32, no-resolve
-ip-cidr, 136.38.94.240/28, no-resolve
-ip-cidr, 136.38.95.0/24, no-resolve
+ip-cidr, 136.38.80.0/20, no-resolve
 ip-cidr, 136.38.96.0/20, no-resolve
 ip-cidr, 136.38.112.0/21, no-resolve
 ip-cidr, 136.38.120.0/23, no-resolve
@@ -2639,7 +2628,17 @@ ip-cidr, 136.52.46.96/27, no-resolve
 ip-cidr, 136.52.46.128/25, no-resolve
 ip-cidr, 136.52.47.0/24, no-resolve
 ip-cidr, 136.52.48.0/20, no-resolve
-ip-cidr, 136.52.64.0/21, no-resolve
+ip-cidr, 136.52.64.0/23, no-resolve
+ip-cidr, 136.52.66.0/28, no-resolve
+ip-cidr, 136.52.66.16/29, no-resolve
+ip-cidr, 136.52.66.24/30, no-resolve
+ip-cidr, 136.52.66.28/31, no-resolve
+ip-cidr, 136.52.66.31/32, no-resolve
+ip-cidr, 136.52.66.32/27, no-resolve
+ip-cidr, 136.52.66.64/26, no-resolve
+ip-cidr, 136.52.66.128/25, no-resolve
+ip-cidr, 136.52.67.0/24, no-resolve
+ip-cidr, 136.52.68.0/22, no-resolve
 ip-cidr, 136.52.72.0/24, no-resolve
 ip-cidr, 136.52.73.0/25, no-resolve
 ip-cidr, 136.52.73.128/29, no-resolve
@@ -2648,7 +2647,12 @@ ip-cidr, 136.52.73.138/32, no-resolve
 ip-cidr, 136.52.73.140/30, no-resolve
 ip-cidr, 136.52.73.144/28, no-resolve
 ip-cidr, 136.52.73.160/27, no-resolve
-ip-cidr, 136.52.73.192/26, no-resolve
+ip-cidr, 136.52.73.192/27, no-resolve
+ip-cidr, 136.52.73.224/28, no-resolve
+ip-cidr, 136.52.73.240/29, no-resolve
+ip-cidr, 136.52.73.248/32, no-resolve
+ip-cidr, 136.52.73.250/31, no-resolve
+ip-cidr, 136.52.73.252/30, no-resolve
 ip-cidr, 136.52.74.0/27, no-resolve
 ip-cidr, 136.52.74.32/29, no-resolve
 ip-cidr, 136.52.74.41/32, no-resolve
@@ -3483,7 +3487,7 @@ ip-cidr, 153.72.0.0/18, no-resolve
 ip-cidr, 153.72.68.0/22, no-resolve
 ip-cidr, 153.72.128.0/18, no-resolve
 ip-cidr, 153.72.224.0/22, no-resolve
-ip-cidr, 153.72.228.0/24, no-resolve
+ip-cidr, 153.72.228.0/23, no-resolve
 ip-cidr, 153.72.234.0/23, no-resolve
 ip-cidr, 153.72.236.0/23, no-resolve
 ip-cidr, 153.72.238.0/24, no-resolve
@@ -3603,6 +3607,7 @@ ip-cidr, 185.8.143.0/24, no-resolve
 ip-cidr, 185.9.1.0/24, no-resolve
 ip-cidr, 185.25.28.0/23, no-resolve
 ip-cidr, 185.25.30.0/24, no-resolve
+ip-cidr, 185.30.23.0/24, no-resolve
 ip-cidr, 185.30.28.0/22, no-resolve
 ip-cidr, 185.41.150.0/24, no-resolve
 ip-cidr, 185.46.233.0/24, no-resolve
@@ -3834,22 +3839,7 @@ ip-cidr, 217.169.118.0/24, no-resolve
 ip-cidr, 223.29.216.0/22, no-resolve
 ip6-cidr, 2001:671:fc00::/38, no-resolve
 ip6-cidr, 2001:4860::/32, no-resolve
-ip6-cidr, 2401:fa00::/42, no-resolve
-ip6-cidr, 2401:fa00:41::/48, no-resolve
-ip6-cidr, 2401:fa00:42::/47, no-resolve
-ip6-cidr, 2401:fa00:44::/46, no-resolve
-ip6-cidr, 2401:fa00:48::/45, no-resolve
-ip6-cidr, 2401:fa00:50::/44, no-resolve
-ip6-cidr, 2401:fa00:60::/43, no-resolve
-ip6-cidr, 2401:fa00:80::/41, no-resolve
-ip6-cidr, 2401:fa00:100::/40, no-resolve
-ip6-cidr, 2401:fa00:200::/39, no-resolve
-ip6-cidr, 2401:fa00:400::/38, no-resolve
-ip6-cidr, 2401:fa00:800::/37, no-resolve
-ip6-cidr, 2401:fa00:1000::/36, no-resolve
-ip6-cidr, 2401:fa00:2000::/35, no-resolve
-ip6-cidr, 2401:fa00:4000::/34, no-resolve
-ip6-cidr, 2401:fa00:8000::/33, no-resolve
+ip6-cidr, 2401:fa00::/32, no-resolve
 ip6-cidr, 2402:2f60:1919::/48, no-resolve
 ip6-cidr, 2402:4760:9c::/48, no-resolve
 ip6-cidr, 2404:6800::/32, no-resolve
@@ -5023,7 +5013,26 @@ ip6-cidr, 2605:a601:9376::/47, no-resolve
 ip6-cidr, 2605:a601:9378::/45, no-resolve
 ip6-cidr, 2605:a601:9380::/41, no-resolve
 ip6-cidr, 2605:a601:9400::/43, no-resolve
-ip6-cidr, 2605:a601:9420::/44, no-resolve
+ip6-cidr, 2605:a601:9420::/45, no-resolve
+ip6-cidr, 2605:a601:9428::/46, no-resolve
+ip6-cidr, 2605:a601:942c::/47, no-resolve
+ip6-cidr, 2605:a601:942e::/48, no-resolve
+ip6-cidr, 2605:a601:942f::/49, no-resolve
+ip6-cidr, 2605:a601:942f:8000::/50, no-resolve
+ip6-cidr, 2605:a601:942f:c000::/51, no-resolve
+ip6-cidr, 2605:a601:942f:e000::/55, no-resolve
+ip6-cidr, 2605:a601:942f:e200::/56, no-resolve
+ip6-cidr, 2605:a601:942f:e301::/64, no-resolve
+ip6-cidr, 2605:a601:942f:e302::/63, no-resolve
+ip6-cidr, 2605:a601:942f:e304::/62, no-resolve
+ip6-cidr, 2605:a601:942f:e308::/61, no-resolve
+ip6-cidr, 2605:a601:942f:e310::/60, no-resolve
+ip6-cidr, 2605:a601:942f:e320::/59, no-resolve
+ip6-cidr, 2605:a601:942f:e340::/58, no-resolve
+ip6-cidr, 2605:a601:942f:e380::/57, no-resolve
+ip6-cidr, 2605:a601:942f:e400::/54, no-resolve
+ip6-cidr, 2605:a601:942f:e800::/53, no-resolve
+ip6-cidr, 2605:a601:942f:f000::/52, no-resolve
 ip6-cidr, 2605:a601:9430::/47, no-resolve
 ip6-cidr, 2605:a601:9432::/48, no-resolve
 ip6-cidr, 2605:a601:9433::/50, no-resolve
@@ -6583,7 +6592,21 @@ ip6-cidr, 2605:a601:a50e:4400::/54, no-resolve
 ip6-cidr, 2605:a601:a50e:4800::/53, no-resolve
 ip6-cidr, 2605:a601:a50e:5000::/52, no-resolve
 ip6-cidr, 2605:a601:a50e:6000::/51, no-resolve
-ip6-cidr, 2605:a601:a50e:8000::/49, no-resolve
+ip6-cidr, 2605:a601:a50e:8000::/52, no-resolve
+ip6-cidr, 2605:a601:a50e:9000::/55, no-resolve
+ip6-cidr, 2605:a601:a50e:9200::/56, no-resolve
+ip6-cidr, 2605:a601:a50e:9301::/64, no-resolve
+ip6-cidr, 2605:a601:a50e:9302::/63, no-resolve
+ip6-cidr, 2605:a601:a50e:9304::/62, no-resolve
+ip6-cidr, 2605:a601:a50e:9308::/61, no-resolve
+ip6-cidr, 2605:a601:a50e:9310::/60, no-resolve
+ip6-cidr, 2605:a601:a50e:9320::/59, no-resolve
+ip6-cidr, 2605:a601:a50e:9340::/58, no-resolve
+ip6-cidr, 2605:a601:a50e:9380::/57, no-resolve
+ip6-cidr, 2605:a601:a50e:9400::/54, no-resolve
+ip6-cidr, 2605:a601:a50e:9800::/53, no-resolve
+ip6-cidr, 2605:a601:a50e:a000::/51, no-resolve
+ip6-cidr, 2605:a601:a50e:c000::/50, no-resolve
 ip6-cidr, 2605:a601:a50f::/48, no-resolve
 ip6-cidr, 2605:a601:a510::/45, no-resolve
 ip6-cidr, 2605:a601:a518::/49, no-resolve
@@ -7648,7 +7671,23 @@ ip6-cidr, 2605:a601:a98f:6a00::/55, no-resolve
 ip6-cidr, 2605:a601:a98f:6c00::/54, no-resolve
 ip6-cidr, 2605:a601:a98f:7000::/52, no-resolve
 ip6-cidr, 2605:a601:a98f:8000::/49, no-resolve
-ip6-cidr, 2605:a601:a990::/47, no-resolve
+ip6-cidr, 2605:a601:a990::/49, no-resolve
+ip6-cidr, 2605:a601:a990:8000::/52, no-resolve
+ip6-cidr, 2605:a601:a990:9000::/54, no-resolve
+ip6-cidr, 2605:a601:a990:9400::/56, no-resolve
+ip6-cidr, 2605:a601:a990:9501::/64, no-resolve
+ip6-cidr, 2605:a601:a990:9502::/63, no-resolve
+ip6-cidr, 2605:a601:a990:9504::/62, no-resolve
+ip6-cidr, 2605:a601:a990:9508::/61, no-resolve
+ip6-cidr, 2605:a601:a990:9510::/60, no-resolve
+ip6-cidr, 2605:a601:a990:9520::/59, no-resolve
+ip6-cidr, 2605:a601:a990:9540::/58, no-resolve
+ip6-cidr, 2605:a601:a990:9580::/57, no-resolve
+ip6-cidr, 2605:a601:a990:9600::/55, no-resolve
+ip6-cidr, 2605:a601:a990:9800::/53, no-resolve
+ip6-cidr, 2605:a601:a990:a000::/51, no-resolve
+ip6-cidr, 2605:a601:a990:c000::/50, no-resolve
+ip6-cidr, 2605:a601:a991::/48, no-resolve
 ip6-cidr, 2605:a601:a992::/51, no-resolve
 ip6-cidr, 2605:a601:a992:2000::/52, no-resolve
 ip6-cidr, 2605:a601:a992:3000::/54, no-resolve
@@ -8791,7 +8830,26 @@ ip6-cidr, 2605:a601:aaf5::/48, no-resolve
 ip6-cidr, 2605:a601:aaf6::/47, no-resolve
 ip6-cidr, 2605:a601:aaf8::/45, no-resolve
 ip6-cidr, 2605:a601:ab00::/42, no-resolve
-ip6-cidr, 2605:a601:ab40::/44, no-resolve
+ip6-cidr, 2605:a601:ab40::/45, no-resolve
+ip6-cidr, 2605:a601:ab48::/46, no-resolve
+ip6-cidr, 2605:a601:ab4c::/47, no-resolve
+ip6-cidr, 2605:a601:ab4e::/48, no-resolve
+ip6-cidr, 2605:a601:ab4f::/52, no-resolve
+ip6-cidr, 2605:a601:ab4f:1000::/53, no-resolve
+ip6-cidr, 2605:a601:ab4f:1800::/54, no-resolve
+ip6-cidr, 2605:a601:ab4f:1c01::/64, no-resolve
+ip6-cidr, 2605:a601:ab4f:1c02::/63, no-resolve
+ip6-cidr, 2605:a601:ab4f:1c04::/62, no-resolve
+ip6-cidr, 2605:a601:ab4f:1c08::/61, no-resolve
+ip6-cidr, 2605:a601:ab4f:1c10::/60, no-resolve
+ip6-cidr, 2605:a601:ab4f:1c20::/59, no-resolve
+ip6-cidr, 2605:a601:ab4f:1c40::/58, no-resolve
+ip6-cidr, 2605:a601:ab4f:1c80::/57, no-resolve
+ip6-cidr, 2605:a601:ab4f:1d00::/56, no-resolve
+ip6-cidr, 2605:a601:ab4f:1e00::/55, no-resolve
+ip6-cidr, 2605:a601:ab4f:2000::/51, no-resolve
+ip6-cidr, 2605:a601:ab4f:4000::/50, no-resolve
+ip6-cidr, 2605:a601:ab4f:8000::/49, no-resolve
 ip6-cidr, 2605:a601:ab50::/45, no-resolve
 ip6-cidr, 2605:a601:ab58::/47, no-resolve
 ip6-cidr, 2605:a601:ab5a::/48, no-resolve
@@ -8868,6 +8926,7 @@ ip6-cidr, 2606:40::/32, no-resolve
 ip6-cidr, 2606:3dc0:80::/42, no-resolve
 ip6-cidr, 2606:3dc0:880::/41, no-resolve
 ip6-cidr, 2606:73c0::/32, no-resolve
+ip6-cidr, 2606:c7c0:200::/48, no-resolve
 ip6-cidr, 2606:ec80::/44, no-resolve
 ip6-cidr, 2606:f4c0:2000::/35, no-resolve
 ip6-cidr, 2606:f4c0:5000::/40, no-resolve
